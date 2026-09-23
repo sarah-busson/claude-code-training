@@ -79,4 +79,4 @@ More precisely:
 
 Stage 2 will define a formal pricing model, enumerate what features predict price, and establish a ranking criterion for which homes to sell.
 
-Approved by analyst: pending
+Approved by analyst: yes
